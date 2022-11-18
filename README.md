@@ -1,5 +1,11 @@
 # docker postgres scripts
 
+## wip has moved
+
+Future work on this repository has moved to the monorepo [valera-rozuvan/docker-recipes](https://github.com/valera-rozuvan/docker-recipes). This repo is archived for historic purposes (to preserve commit history). Navigate over to [docker-recipes/docker-postgres-scripts](https://github.com/valera-rozuvan/docker-recipes/tree/main/docker-postgres-scripts) to see updates (if any).
+
+## introduction
+
 docker postgres scripts
 
 ```
